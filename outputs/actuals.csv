@@ -1,0 +1,359 @@
+entity,month,service_code,cluster,service_name,amount_usd,quantity
+A,2026-01,SVC-01,Payment Processing,Authorization Gateway,154242.48,48200775.0
+A,2026-01,SVC-02,Payment Processing,3DS Authentication,63625.02,5784093.0
+A,2026-01,SVC-03,Payment Processing,DCC Service,4048.87,1928031.0
+A,2026-01,SVC-04,Fraud & Risk,Fraud Engine,221723.57,48200775.0
+A,2026-01,SVC-05,Fraud & Risk,Device Fingerprint,47236.76,16870271.0
+A,2026-01,SVC-06,Fraud & Risk,Chargeback Alerts,8386.8,5784.0
+A,2026-01,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-01,SVC-08,Tokenization,Token Provisioning,2699.24,3856062.0
+A,2026-01,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-01,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-01,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-01,SVC-12,Onboarding & Compliance,Merchant Onboarding,30240.0,840.0
+A,2026-01,SVC-13,Onboarding & Compliance,KYC Check,2234.4,1176.0
+A,2026-01,SVC-14,Commercial Incentives,Approval Rate Incentive,37307.4,41452666.0
+A,2026-02,SVC-01,Payment Processing,Authorization Gateway,157140.23,49106323.0
+A,2026-02,SVC-02,Payment Processing,3DS Authentication,64820.35,5892759.0
+A,2026-02,SVC-03,Payment Processing,DCC Service,4124.93,1964253.0
+A,2026-02,SVC-04,Fraud & Risk,Fraud Engine,225889.09,49106323.0
+A,2026-02,SVC-05,Fraud & Risk,Device Fingerprint,50530.41,18046574.0
+A,2026-02,SVC-06,Fraud & Risk,Chargeback Alerts,8544.85,5893.0
+A,2026-02,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-02,SVC-08,Tokenization,Token Provisioning,2749.95,3928506.0
+A,2026-02,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-02,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-02,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-02,SVC-12,Onboarding & Compliance,Merchant Onboarding,31140.0,865.0
+A,2026-02,SVC-13,Onboarding & Compliance,KYC Check,2300.9,1211.0
+A,2026-02,SVC-14,Commercial Incentives,Approval Rate Incentive,38008.29,42231438.0
+A,2026-03,SVC-01,Payment Processing,Authorization Gateway,164110.26,51284456.0
+A,2026-03,SVC-02,Payment Processing,3DS Authentication,67695.49,6154135.0
+A,2026-03,SVC-03,Payment Processing,DCC Service,4307.89,2051378.0
+A,2026-03,SVC-04,Fraud & Risk,Fraud Engine,235908.5,51284456.0
+A,2026-03,SVC-05,Fraud & Risk,Device Fingerprint,55284.64,19744516.0
+A,2026-03,SVC-06,Fraud & Risk,Chargeback Alerts,8923.3,6154.0
+A,2026-03,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-03,SVC-08,Tokenization,Token Provisioning,2871.93,4102756.0
+A,2026-03,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-03,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-03,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-03,SVC-12,Onboarding & Compliance,Merchant Onboarding,33192.0,922.0
+A,2026-03,SVC-13,Onboarding & Compliance,KYC Check,2452.9,1291.0
+A,2026-03,SVC-14,Commercial Incentives,Approval Rate Incentive,39694.17,44104632.0
+A,2026-04,SVC-01,Payment Processing,Authorization Gateway,169817.6,53068001.0
+A,2026-04,SVC-02,Payment Processing,3DS Authentication,68799.76,6368159.0
+A,2026-04,SVC-03,Payment Processing,DCC Service,4457.71,2122720.0
+A,2026-04,SVC-04,Fraud & Risk,Fraud Engine,244112.8,53068001.0
+A,2026-04,SVC-05,Fraud & Risk,Device Fingerprint,59807.64,21359870.0
+A,2026-04,SVC-06,Fraud & Risk,Chargeback Alerts,9233.6,6368.0
+A,2026-04,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-04,SVC-08,Tokenization,Token Provisioning,2971.81,4245440.0
+A,2026-04,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-04,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-04,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-04,SVC-12,Onboarding & Compliance,Merchant Onboarding,30528.0,848.0
+A,2026-04,SVC-13,Onboarding & Compliance,KYC Check,2255.3,1187.0
+A,2026-04,SVC-14,Commercial Incentives,Approval Rate Incentive,41074.63,45638481.0
+A,2026-05,SVC-01,Payment Processing,Authorization Gateway,172473.21,53897879.0
+A,2026-05,SVC-02,Payment Processing,3DS Authentication,71145.19,6467745.0
+A,2026-05,SVC-03,Payment Processing,DCC Service,4527.42,2155915.0
+A,2026-05,SVC-04,Fraud & Risk,Fraud Engine,247930.24,53897879.0
+A,2026-05,SVC-05,Fraud & Risk,Device Fingerprint,63383.91,22637109.0
+A,2026-05,SVC-06,Fraud & Risk,Chargeback Alerts,9378.6,6468.0
+A,2026-05,SVC-07,Tokenization,Token Vault Fee,76000.0,2.0
+A,2026-05,SVC-08,Tokenization,Token Provisioning,3018.28,4311830.0
+A,2026-05,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-05,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-05,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-05,SVC-12,Onboarding & Compliance,Merchant Onboarding,30276.0,841.0
+A,2026-05,SVC-13,Onboarding & Compliance,KYC Check,2236.3,1177.0
+A,2026-05,SVC-14,Commercial Incentives,Approval Rate Incentive,41716.96,46352176.0
+A,2026-06,SVC-01,Payment Processing,Authorization Gateway,176561.48,55175463.0
+A,2026-06,SVC-02,Payment Processing,3DS Authentication,72831.62,6621056.0
+A,2026-06,SVC-03,Payment Processing,DCC Service,4634.74,2207019.0
+A,2026-06,SVC-04,Fraud & Risk,Fraud Engine,253807.13,55175463.0
+A,2026-06,SVC-05,Fraud & Risk,Device Fingerprint,67589.94,24139265.0
+A,2026-06,SVC-06,Fraud & Risk,Chargeback Alerts,9600.45,6621.0
+A,2026-06,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-06,SVC-08,Tokenization,Token Provisioning,3089.83,4414037.0
+A,2026-06,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-06,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-06,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-06,SVC-12,Onboarding & Compliance,Merchant Onboarding,32436.0,901.0
+A,2026-06,SVC-13,Onboarding & Compliance,KYC Check,2395.9,1261.0
+A,2026-06,SVC-14,Commercial Incentives,Approval Rate Incentive,42705.81,47450898.0
+A,2026-07,SVC-01,Payment Processing,Authorization Gateway,180801.34,56500419.0
+A,2026-07,SVC-02,Payment Processing,3DS Authentication,74580.55,6780050.0
+A,2026-07,SVC-03,Payment Processing,DCC Service,4746.04,2260017.0
+A,2026-07,SVC-04,Fraud & Risk,Fraud Engine,259901.93,56500419.0
+A,2026-07,SVC-05,Fraud & Risk,Device Fingerprint,71981.53,25707691.0
+A,2026-07,SVC-06,Fraud & Risk,Chargeback Alerts,9831.0,6780.0
+A,2026-07,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-07,SVC-08,Tokenization,Token Provisioning,3164.02,4520034.0
+A,2026-07,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-07,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-07,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-07,SVC-12,Onboarding & Compliance,Merchant Onboarding,31032.0,862.0
+A,2026-07,SVC-13,Onboarding & Compliance,KYC Check,2293.3,1207.0
+A,2026-07,SVC-14,Commercial Incentives,Approval Rate Incentive,43731.32,48590361.0
+A,2026-08,SVC-01,Payment Processing,Authorization Gateway,189758.06,59299394.0
+A,2026-08,SVC-02,Payment Processing,3DS Authentication,78275.2,7115927.0
+A,2026-08,SVC-03,Payment Processing,DCC Service,4981.15,2371976.0
+A,2026-08,SVC-04,Fraud & Risk,Fraud Engine,272777.21,59299394.0
+A,2026-08,SVC-05,Fraud & Risk,Device Fingerprint,78453.1,28018963.0
+A,2026-08,SVC-06,Fraud & Risk,Chargeback Alerts,10318.2,7116.0
+A,2026-08,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-08,SVC-08,Tokenization,Token Provisioning,3320.77,4743951.0
+A,2026-08,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-08,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-08,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-08,SVC-12,Onboarding & Compliance,Merchant Onboarding,32616.0,906.0
+A,2026-08,SVC-13,Onboarding & Compliance,KYC Check,2409.2,1268.0
+A,2026-08,SVC-14,Commercial Incentives,Approval Rate Incentive,45897.73,50997479.0
+A,2026-09,SVC-01,Payment Processing,Authorization Gateway,192944.02,60295006.0
+A,2026-09,SVC-02,Payment Processing,3DS Authentication,79589.41,7235401.0
+A,2026-09,SVC-03,Payment Processing,DCC Service,5064.78,2411800.0
+A,2026-09,SVC-04,Fraud & Risk,Fraud Engine,277357.03,60295006.0
+A,2026-09,SVC-05,Fraud & Risk,Device Fingerprint,82724.75,29544553.0
+A,2026-09,SVC-06,Fraud & Risk,Chargeback Alerts,10490.75,7235.0
+A,2026-09,SVC-07,Tokenization,Token Vault Fee,38000.0,1.0
+A,2026-09,SVC-08,Tokenization,Token Provisioning,3376.52,4823600.0
+A,2026-09,SVC-09,Infrastructure,Cloud Hosting,64000.0,1.0
+A,2026-09,SVC-10,Infrastructure,Network & Security,29000.0,1.0
+A,2026-09,SVC-11,Operations & Support,L2 Support,22000.0,1.0
+A,2026-09,SVC-12,Onboarding & Compliance,Merchant Onboarding,32796.0,911.0
+A,2026-09,SVC-13,Onboarding & Compliance,KYC Check,2424.4,1276.0
+A,2026-09,SVC-14,Commercial Incentives,Approval Rate Incentive,46668.33,51853705.0
+B,2026-01,SVC-01,Payment Processing,Authorization Gateway,71353.91,22301761.0
+B,2026-01,SVC-02,Payment Processing,3DS Authentication,29437.28,2676211.0
+B,2026-01,SVC-03,Payment Processing,DCC Service,1873.49,892070.0
+B,2026-01,SVC-04,Fraud & Risk,Fraud Engine,102578.78,22301761.0
+B,2026-01,SVC-05,Fraud & Risk,Device Fingerprint,21857.41,7805616.0
+B,2026-01,SVC-06,Fraud & Risk,Chargeback Alerts,3880.2,2676.0
+B,2026-01,SVC-07,Tokenization,Token Vault Fee,21000.0,1.0
+B,2026-01,SVC-08,Tokenization,Token Provisioning,1249.0,1784141.0
+B,2026-01,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-01,SVC-10,Infrastructure,Network & Security,17000.01,1.0
+B,2026-01,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-01,SVC-12,Onboarding & Compliance,Merchant Onboarding,14759.99,410.0
+B,2026-01,SVC-13,Onboarding & Compliance,KYC Check,1092.5,575.0
+B,2026-01,SVC-14,Commercial Incentives,Approval Rate Incentive,17265.86,19179514.0
+B,2026-02,SVC-01,Payment Processing,Authorization Gateway,70589.91,22057180.0
+B,2026-02,SVC-02,Payment Processing,3DS Authentication,29116.56,2646862.0
+B,2026-02,SVC-03,Payment Processing,DCC Service,1852.57,882287.0
+B,2026-02,SVC-04,Fraud & Risk,Fraud Engine,101458.11,22057180.0
+B,2026-02,SVC-05,Fraud & Risk,Device Fingerprint,21616.07,7720013.0
+B,2026-02,SVC-06,Fraud & Risk,Chargeback Alerts,3838.15,2647.0
+B,2026-02,SVC-07,Tokenization,Token Vault Fee,21000.01,1.0
+B,2026-02,SVC-08,Tokenization,Token Provisioning,1235.68,1764574.0
+B,2026-02,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-02,SVC-10,Infrastructure,Network & Security,17000.0,1.0
+B,2026-02,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-02,SVC-12,Onboarding & Compliance,Merchant Onboarding,14256.0,396.0
+B,2026-02,SVC-13,Onboarding & Compliance,KYC Check,1054.5,555.0
+B,2026-02,SVC-14,Commercial Incentives,Approval Rate Incentive,17070.09,18969175.0
+B,2026-03,SVC-01,Payment Processing,Authorization Gateway,73281.71,22901228.0
+B,2026-03,SVC-02,Payment Processing,3DS Authentication,30228.14,2748147.0
+B,2026-03,SVC-03,Payment Processing,DCC Service,1923.86,916049.0
+B,2026-03,SVC-04,Fraud & Risk,Fraud Engine,105337.77,22901228.0
+B,2026-03,SVC-05,Fraud & Risk,Device Fingerprint,22439.24,8015430.0
+B,2026-03,SVC-06,Fraud & Risk,Chargeback Alerts,3984.6,2748.0
+B,2026-03,SVC-07,Tokenization,Token Vault Fee,21000.0,1.0
+B,2026-03,SVC-08,Tokenization,Token Provisioning,1283.25,1832098.0
+B,2026-03,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-03,SVC-10,Infrastructure,Network & Security,16999.99,1.0
+B,2026-03,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-03,SVC-12,Onboarding & Compliance,Merchant Onboarding,15336.0,426.0
+B,2026-03,SVC-13,Onboarding & Compliance,KYC Check,1134.3,597.0
+B,2026-03,SVC-14,Commercial Incentives,Approval Rate Incentive,17727.03,19695056.0
+B,2026-03,SVC-99,Unmapped,Complemento Analítico Premium,9273.5,1.0
+B,2026-04,SVC-01,Payment Processing,Authorization Gateway,74289.59,23216888.0
+B,2026-04,SVC-02,Payment Processing,3DS Authentication,30645.4,2786027.0
+B,2026-04,SVC-03,Payment Processing,DCC Service,1950.07,928676.0
+B,2026-04,SVC-04,Fraud & Risk,Fraud Engine,106799.17,23216888.0
+B,2026-04,SVC-05,Fraud & Risk,Device Fingerprint,22756.71,8125911.0
+B,2026-04,SVC-06,Fraud & Risk,Chargeback Alerts,4039.7,2786.0
+B,2026-04,SVC-07,Tokenization,Token Vault Fee,21000.0,1.0
+B,2026-04,SVC-08,Tokenization,Token Provisioning,1299.38,1857351.0
+B,2026-04,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-04,SVC-10,Infrastructure,Network & Security,17000.0,1.0
+B,2026-04,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-04,SVC-12,Onboarding & Compliance,Merchant Onboarding,15624.0,434.0
+B,2026-04,SVC-13,Onboarding & Compliance,KYC Check,1153.3,607.0
+B,2026-04,SVC-14,Commercial Incentives,Approval Rate Incentive,17965.4,19966524.0
+B,2026-05,SVC-01,Payment Processing,Authorization Gateway,74791.62,23375376.0
+B,2026-05,SVC-02,Payment Processing,3DS Authentication,30856.53,2805045.0
+B,2026-05,SVC-03,Payment Processing,DCC Service,1963.73,935015.0
+B,2026-05,SVC-04,Fraud & Risk,Fraud Engine,107528.95,23375376.0
+B,2026-05,SVC-05,Fraud & Risk,Device Fingerprint,22907.17,8181382.0
+B,2026-05,SVC-06,Fraud & Risk,Chargeback Alerts,4067.25,2805.0
+B,2026-05,SVC-07,Tokenization,Token Vault Fee,21000.0,1.0
+B,2026-05,SVC-08,Tokenization,Token Provisioning,1308.47,1870030.0
+B,2026-05,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-05,SVC-10,Infrastructure,Network & Security,17000.0,1.0
+B,2026-05,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-05,SVC-12,Onboarding & Compliance,Merchant Onboarding,16128.0,448.0
+B,2026-05,SVC-13,Onboarding & Compliance,KYC Check,1191.31,627.0
+B,2026-05,SVC-14,Commercial Incentives,Approval Rate Incentive,18094.35,20102823.0
+B,2026-06,SVC-01,Payment Processing,Authorization Gateway,75552.77,23613885.0
+B,2026-06,SVC-02,Payment Processing,3DS Authentication,31170.59,2833666.0
+B,2026-06,SVC-03,Payment Processing,DCC Service,1983.2,944555.0
+B,2026-06,SVC-04,Fraud & Risk,Fraud Engine,108623.35,23613885.0
+B,2026-06,SVC-05,Fraud & Risk,Device Fingerprint,23140.31,8264860.0
+B,2026-06,SVC-06,Fraud & Risk,Chargeback Alerts,4109.31,2834.0
+B,2026-06,SVC-07,Tokenization,Token Vault Fee,21000.0,1.0
+B,2026-06,SVC-08,Tokenization,Token Provisioning,1322.82,1889111.0
+B,2026-06,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-06,SVC-10,Infrastructure,Network & Security,17000.0,1.0
+B,2026-06,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-06,SVC-12,Onboarding & Compliance,Merchant Onboarding,15228.0,423.0
+B,2026-06,SVC-13,Onboarding & Compliance,KYC Check,1124.8,592.0
+B,2026-06,SVC-14,Commercial Incentives,Approval Rate Incentive,18267.34,20307941.0
+B,2026-07,SVC-01,Payment Processing,Authorization Gateway,178816.95,55874990.0
+B,2026-07,SVC-02,Payment Processing,3DS Authentication,32067.24,2915217.0
+B,2026-07,SVC-03,Payment Processing,DCC Service,2040.31,971739.0
+B,2026-07,SVC-04,Fraud & Risk,Fraud Engine,111760.59,24293474.0
+B,2026-07,SVC-05,Fraud & Risk,Device Fingerprint,23809.87,8502716.0
+B,2026-07,SVC-07,Tokenization,Token Vault Fee,20999.99,1.0
+B,2026-07,SVC-08,Tokenization,Token Provisioning,1359.51,1943478.0
+B,2026-07,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-07,SVC-10,Infrastructure,Network & Security,17000.0,1.0
+B,2026-07,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-07,SVC-12,Onboarding & Compliance,Merchant Onboarding,15372.0,427.0
+B,2026-07,SVC-13,Onboarding & Compliance,KYC Check,1136.2,598.0
+B,2026-07,SVC-14,Commercial Incentives,Approval Rate Incentive,18793.52,20892388.0
+B,2026-08,SVC-01,Payment Processing,Authorization Gateway,85741.69,24681538.0
+B,2026-08,SVC-02,Payment Processing,3DS Authentication,35368.45,2961785.0
+B,2026-08,SVC-03,Payment Processing,DCC Service,2250.72,987262.0
+B,2026-08,SVC-04,Fraud & Risk,Fraud Engine,123253.68,24681538.0
+B,2026-08,SVC-05,Fraud & Risk,Device Fingerprint,26258.39,8638538.0
+B,2026-08,SVC-07,Tokenization,Token Vault Fee,22796.69,1.0
+B,2026-08,SVC-08,Tokenization,Token Provisioning,1500.48,1974523.0
+B,2026-08,SVC-09,Infrastructure,Cloud Hosting,40165.6,1.0
+B,2026-08,SVC-10,Infrastructure,Network & Security,18454.46,1.0
+B,2026-08,SVC-11,Operations & Support,L2 Support,15197.79,1.0
+B,2026-08,SVC-12,Onboarding & Compliance,Merchant Onboarding,16609.02,425.0
+B,2026-08,SVC-13,Onboarding & Compliance,KYC Check,1225.16,594.0
+B,2026-08,SVC-14,Commercial Incentives,Approval Rate Incentive,20738.77,21226122.0
+B,2026-09,SVC-01,Payment Processing,Authorization Gateway,79797.77,24934933.0
+B,2026-09,SVC-02,Payment Processing,3DS Authentication,32914.95,2992192.0
+B,2026-09,SVC-03,Payment Processing,DCC Service,2094.96,997397.0
+B,2026-09,SVC-04,Fraud & Risk,Fraud Engine,114695.71,24934933.0
+B,2026-09,SVC-05,Fraud & Risk,Device Fingerprint,24438.07,8727227.0
+B,2026-09,SVC-07,Tokenization,Token Vault Fee,21000.01,1.0
+B,2026-09,SVC-08,Tokenization,Token Provisioning,1395.92,1994795.0
+B,2026-09,SVC-09,Infrastructure,Cloud Hosting,37000.0,1.0
+B,2026-09,SVC-10,Infrastructure,Network & Security,17000.0,1.0
+B,2026-09,SVC-11,Operations & Support,L2 Support,14000.0,1.0
+B,2026-09,SVC-12,Onboarding & Compliance,Merchant Onboarding,14148.0,393.0
+B,2026-09,SVC-13,Onboarding & Compliance,KYC Check,1046.9,551.0
+B,2026-09,SVC-14,Commercial Incentives,Approval Rate Incentive,19306.93,21444042.0
+C,2026-01,SVC-01,Payment Processing,Authorization Gateway,28917.77,9036635.0
+C,2026-01,SVC-02,Payment Processing,3DS Authentication,11928.27,1084396.0
+C,2026-01,SVC-04,Fraud & Risk,Fraud Engine,41568.23,9036635.0
+C,2026-01,SVC-05,Fraud & Risk,Device Fingerprint,8855.86,3162822.0
+C,2026-01,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-01,SVC-08,Tokenization,Token Provisioning,506.08,722931.0
+C,2026-01,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-01,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-01,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-01,SVC-12,Onboarding & Compliance,Merchant Onboarding,6372.0,177.0
+C,2026-01,SVC-13,Onboarding & Compliance,KYC Check,469.3,247.0
+C,2026-01,SVC-14,Commercial Incentives,Approval Rate Incentive,6994.95,7771506.0
+C,2026-02,SVC-01,Payment Processing,Authorization Gateway,29118.88,9099423.0
+C,2026-02,SVC-02,Payment Processing,3DS Authentication,12011.26,1091931.0
+C,2026-02,SVC-04,Fraud & Risk,Fraud Engine,41857.62,9099423.0
+C,2026-02,SVC-05,Fraud & Risk,Device Fingerprint,8917.66,3184798.0
+C,2026-02,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-02,SVC-08,Tokenization,Token Provisioning,509.61,727954.0
+C,2026-02,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-02,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-02,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-02,SVC-12,Onboarding & Compliance,Merchant Onboarding,6228.0,173.0
+C,2026-02,SVC-13,Onboarding & Compliance,KYC Check,459.8,242.0
+C,2026-02,SVC-14,Commercial Incentives,Approval Rate Incentive,7042.8,7825504.0
+C,2026-03,SVC-01,Payment Processing,Authorization Gateway,29463.37,9207207.0
+C,2026-03,SVC-02,Payment Processing,3DS Authentication,12153.44,1104865.0
+C,2026-03,SVC-04,Fraud & Risk,Fraud Engine,42353.5,9207207.0
+C,2026-03,SVC-05,Fraud & Risk,Device Fingerprint,9023.09,3222523.0
+C,2026-03,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-03,SVC-08,Tokenization,Token Provisioning,515.61,736577.0
+C,2026-03,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-03,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-03,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-03,SVC-12,Onboarding & Compliance,Merchant Onboarding,6876.0,191.0
+C,2026-03,SVC-13,Onboarding & Compliance,KYC Check,507.3,267.0
+C,2026-03,SVC-14,Commercial Incentives,Approval Rate Incentive,7125.81,7918198.0
+C,2026-04,SVC-01,Payment Processing,Authorization Gateway,30249.59,9452901.0
+C,2026-04,SVC-02,Payment Processing,3DS Authentication,12477.83,1134348.0
+C,2026-04,SVC-04,Fraud & Risk,Fraud Engine,43482.74,9452901.0
+C,2026-04,SVC-05,Fraud & Risk,Device Fingerprint,9263.79,3308515.0
+C,2026-04,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-04,SVC-08,Tokenization,Token Provisioning,529.33,756232.0
+C,2026-04,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-04,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-04,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-04,SVC-12,Onboarding & Compliance,Merchant Onboarding,6588.0,183.0
+C,2026-04,SVC-13,Onboarding & Compliance,KYC Check,486.4,256.0
+C,2026-04,SVC-14,Commercial Incentives,Approval Rate Incentive,7317.07,8129495.0
+C,2026-05,SVC-01,Payment Processing,Authorization Gateway,30265.54,9458031.0
+C,2026-05,SVC-02,Payment Processing,3DS Authentication,12484.7,1134964.0
+C,2026-05,SVC-04,Fraud & Risk,Fraud Engine,43506.39,9458031.0
+C,2026-05,SVC-05,Fraud & Risk,Device Fingerprint,9268.6,3310311.0
+C,2026-05,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-05,SVC-08,Tokenization,Token Provisioning,529.7,756642.0
+C,2026-05,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-05,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-05,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-05,SVC-12,Onboarding & Compliance,Merchant Onboarding,6696.0,186.0
+C,2026-05,SVC-13,Onboarding & Compliance,KYC Check,494.0,260.0
+C,2026-05,SVC-14,Commercial Incentives,Approval Rate Incentive,7320.61,8133906.0
+C,2026-06,SVC-01,Payment Processing,Authorization Gateway,30713.25,9597651.0
+C,2026-06,SVC-02,Payment Processing,3DS Authentication,12668.8,1151718.0
+C,2026-06,SVC-04,Fraud & Risk,Fraud Engine,44148.56,9597651.0
+C,2026-06,SVC-05,Fraud & Risk,Device Fingerprint,9405.93,3359178.0
+C,2026-06,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-06,SVC-08,Tokenization,Token Provisioning,537.41,767812.0
+C,2026-06,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-06,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-06,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-06,SVC-12,Onboarding & Compliance,Merchant Onboarding,6372.0,177.0
+C,2026-06,SVC-13,Onboarding & Compliance,KYC Check,471.2,248.0
+C,2026-06,SVC-14,Commercial Incentives,Approval Rate Incentive,7428.02,8253980.0
+C,2026-07,SVC-01,Payment Processing,Authorization Gateway,31954.47,9985511.0
+C,2026-07,SVC-02,Payment Processing,3DS Authentication,13180.92,1198261.0
+C,2026-07,SVC-04,Fraud & Risk,Fraud Engine,45933.89,9985511.0
+C,2026-07,SVC-05,Fraud & Risk,Device Fingerprint,9785.59,3494929.0
+C,2026-07,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-07,SVC-08,Tokenization,Token Provisioning,559.25,798841.0
+C,2026-07,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-07,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-07,SVC-12,Onboarding & Compliance,Merchant Onboarding,6624.0,184.0
+C,2026-07,SVC-13,Onboarding & Compliance,KYC Check,488.3,257.0
+C,2026-07,SVC-14,Commercial Incentives,Approval Rate Incentive,7728.51,8587540.0
+C,2026-08,SVC-01,Payment Processing,Authorization Gateway,32017.97,10005670.0
+C,2026-08,SVC-02,Payment Processing,3DS Authentication,13207.5,1200680.0
+C,2026-08,SVC-04,Fraud & Risk,Fraud Engine,46026.61,10005670.0
+C,2026-08,SVC-05,Fraud & Risk,Device Fingerprint,9805.42,3501984.0
+C,2026-08,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-08,SVC-08,Tokenization,Token Provisioning,560.35,800454.0
+C,2026-08,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-08,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-08,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-08,SVC-12,Onboarding & Compliance,Merchant Onboarding,6660.0,185.0
+C,2026-08,SVC-13,Onboarding & Compliance,KYC Check,492.1,259.0
+C,2026-08,SVC-14,Commercial Incentives,Approval Rate Incentive,7744.77,8604876.0
+C,2026-09,SVC-01,Payment Processing,Authorization Gateway,32777.09,10242713.0
+C,2026-09,SVC-02,Payment Processing,3DS Authentication,13520.36,1229126.0
+C,2026-09,SVC-03,Payment Processing,Serviço DCC,860.41,409709.0
+C,2026-09,SVC-04,Fraud & Risk,Fraud Engine,47117.3,10242713.0
+C,2026-09,SVC-05,Fraud & Risk,Device Fingerprint,11543.61,3584949.0
+C,2026-09,SVC-07,Tokenization,Token Vault Fee,12000.0,1.0
+C,2026-09,SVC-08,Tokenization,Token Provisioning,573.61,819417.0
+C,2026-09,SVC-09,Infrastructure,Cloud Hosting,21000.0,1.0
+C,2026-09,SVC-10,Infrastructure,Network & Security,10000.0,1.0
+C,2026-09,SVC-11,Operations & Support,L2 Support,9000.0,1.0
+C,2026-09,SVC-12,Onboarding & Compliance,Merchant Onboarding,6732.0,187.0
+C,2026-09,SVC-13,Onboarding & Compliance,KYC Check,497.8,262.0
+C,2026-09,SVC-14,Commercial Incentives,Approval Rate Incentive,7927.86,8808733.0

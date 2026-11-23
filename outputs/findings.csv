@@ -1,0 +1,15 @@
+rule_id,severity,entity,month,service_code,file,sheet,row,message,usd_impact
+V8,Critical,A,2026-06,,01_Billing_Layouts\Entity_A\EntityA_Billing_2026-06.xlsx,Billing,0,File TOTAL does not reconcile with line sum — local: 818652.90 vs 831052.90; USD: 818652.90 vs 831052.90.,12400.00
+V6,Critical,B,2026-07,SVC-01,01_Billing_Layouts\Entity_B\Facturacion_EntB_jul26.xlsx,jul26,2,SVC-01 quantity 55874990 does not match operational volume 24293474 (metric: Transactions).,101070.45
+V4,Critical,B,2026-08,,01_Billing_Layouts\Entity_B\Facturacion_EntB_ago26.xlsx,ago26,0,FX rate 1.18 in file differs from Treasury rate 1.087 for 2026-08 EUR.,32278.95
+V3,High,A,2026-05,SVC-07,01_Billing_Layouts\Entity_A\EntityA_Billing_2026-05.xlsx,Billing,18,"SVC-07 billed 2 times in the same month (row 10, row 18).",38000.00
+V9,High,A,2026-07,SVC-06,01_Billing_Layouts\Entity_A\EntityA_Billing_2026-07.xlsx,Billing,9,Contract CT-1006 ended 2026-06-30 but SVC-06 is billed in 2026-07.,9831.00
+V9,High,A,2026-08,SVC-06,01_Billing_Layouts\Entity_A\EntityA_Billing_2026-08.xlsx,Billing,9,Contract CT-1006 ended 2026-06-30 but SVC-06 is billed in 2026-08.,10318.20
+V9,High,A,2026-09,SVC-06,01_Billing_Layouts\Entity_A\EntityA_Billing_2026-09.xlsx,Billing,9,Contract CT-1006 ended 2026-06-30 but SVC-06 is billed in 2026-09.,10490.75
+V9,High,B,2026-03,SVC-99,01_Billing_Layouts\Entity_B\Facturacion_EntB_mar26.xlsx,mar26,16,SVC-99 has no Service_Pricing row for B (no mapped contract / not covered).,9273.50
+V2,High,C,2026-07,SVC-10,01_Billing_Layouts\Entity_C\Faturamento_EntC_2026_07.xlsx,Detalhe,0,Missing expected service SVC-10 in this billing file.,-10000.00
+V9,High,C,2026-09,SVC-03,01_Billing_Layouts\Entity_C\Faturamento_EntC_2026_09.xlsx,Detalhe,15,SVC-03 has no Service_Pricing row for C (no mapped contract / not covered).,860.41
+V5,High,C,2026-09,SVC-05,01_Billing_Layouts\Entity_C\Faturamento_EntC_2026_09.xlsx,Detalhe,6,Unit price 0.017889 differs from catalog/FX derived 0.015556.,1505.75
+V1,Medium,C,2026-03,,01_Billing_Layouts\Entity_C\Faturamento_EntC_2026_03.xlsx,Detalhe,0,Brazilian number format detected (comma decimals / dot thousands). Locale/precision hazard for naive parsers; unit prices are rounded.,
+V9,Info,,,,02_Contract_Catalog.xlsx,Contracts,0,Contract ID CT-1008 is absent from the catalog sequence. Confirm with contract owner.,
+V1,Info,A,2026-04,SVC-02,01_Billing_Layouts\Entity_A\EntityA_Billing_2026-04.xlsx,Billing,18,"Credit note / adjustment line (Credit note - adjustment INV-A-202601 line 2 (3DS Authentication)); preserved and tracked, not treated as a duplicate.",-1250.00

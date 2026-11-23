@@ -1,0 +1,23 @@
+# ---------------------------------------------------------------------
+# Challenge materials (synthetic inputs + briefs) — DO NOT SHARE
+# These are excluded per the challenge brief's "do not share" clause.
+# ---------------------------------------------------------------------
+01_Billing_Layouts/
+02_Contract_Catalog.xlsx
+03_Budget_2026.xlsx
+04_Volumes_and_FX.xlsx
+00_Challenge_Brief.md
+Finance_Data_Automation_Challenge.md
+
+# ---------------------------------------------------------------------
+# Python cache
+# ---------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ---------------------------------------------------------------------
+# Regenerable runtime artifacts (rebuild with: python pipeline.py)
+# ---------------------------------------------------------------------
+outputs/finance_health.db
+outputs/run_metadata.json
