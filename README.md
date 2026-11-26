@@ -34,6 +34,15 @@ python -m src.ask "Which services were billed to Entity B in March without a map
 | `finance_health.db` | SQLite database backing the marts and the AI tool |
 | `run_metadata.json` | Version/run metadata (run id, file/line counts, finding counts) |
 
+## Walkthrough video
+`apresentacao_desafio_getnet.mp4` — presentation walkthrough of the solution. The file is ~45 MB
+and stored with **Git LFS**, so after cloning run:
+
+```bash
+git lfs install
+git lfs pull      # downloads the video; without it you only get a small pointer file
+```
+
 ## Business rules (see `SPEC.md` §6)
 V1 valid file · V2 completeness · V3 duplicates · V4 FX consistency · V5 price consistency ·
 V6 quantity reconciliation · V7 amount computation · V8 file-total reconciliation ·
